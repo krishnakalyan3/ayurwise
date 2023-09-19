@@ -2,3 +2,6 @@ weaviate-client
 openai
 langchain
 python-dotenv
+metapub
+pandas
+tqdm
