@@ -1,7 +1,5 @@
-weaviate-client
-openai
-langchain
+pymongo
 python-dotenv
-metapub
-pandas
-tqdm
+langchain
+openai
+chainlit
