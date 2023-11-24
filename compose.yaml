@@ -1,0 +1,8 @@
+version: "3.3"
+services:
+  chainlit-express:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: chainlit-express
+    restart: always
